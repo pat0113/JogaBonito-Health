@@ -5,5 +5,18 @@
       "text": "Tostao"
     }
   ],
-  "gender": "male"
+  "gender": "male",
+  "birthDate": "1944-01-25",
+  "address": [
+    {
+      "city": "Juiz de Fora",
+      "country": "Brazil"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/football-achievement",
+      "valueString": "1970 World Cup Winner"
+    }
+  ]
 }
