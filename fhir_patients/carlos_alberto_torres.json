@@ -5,5 +5,18 @@
       "text": "Carlos Alberto Torres"
     }
   ],
-  "gender": "male"
+  "gender": "male",
+  "birthDate": "1944-09-14",
+  "address": [
+    {
+      "city": "Rio de Janeiro",
+      "country": "Brazil"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/football-achievement",
+      "valueString": "1970 Captain"
+    }
+  ]
 }
