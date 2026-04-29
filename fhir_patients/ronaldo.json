@@ -5,5 +5,18 @@
       "text": "Ronaldo"
     }
   ],
-  "gender": "male"
+  "gender": "male",
+  "birthDate": "1976-09-22",
+  "address": [
+    {
+      "city": "Rio de Janeiro",
+      "country": "Brazil"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/football-achievement",
+      "valueString": "2 World Cups"
+    }
+  ]
 }
