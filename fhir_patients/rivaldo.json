@@ -5,5 +5,18 @@
       "text": "Rivaldo"
     }
   ],
-  "gender": "male"
+  "gender": "male",
+  "birthDate": "1973-04-19",
+  "address": [
+    {
+      "city": "Recife",
+      "country": "Brazil"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/football-achievement",
+      "valueString": "2002 World Cup Winner"
+    }
+  ]
 }
