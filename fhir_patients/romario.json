@@ -5,5 +5,18 @@
       "text": "Romario"
     }
   ],
-  "gender": "male"
+  "gender": "male",
+  "birthDate": "1966-01-29",
+  "address": [
+    {
+      "city": "Jacarepagu\u00e1",
+      "country": "Brazil"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/football-achievement",
+      "valueString": "1994 World Cup Star"
+    }
+  ]
 }
