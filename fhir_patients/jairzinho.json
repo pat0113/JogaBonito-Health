@@ -5,5 +5,18 @@
       "text": "Jairzinho"
     }
   ],
-  "gender": "male"
+  "gender": "male",
+  "birthDate": "1944-12-04",
+  "address": [
+    {
+      "city": "Olinda",
+      "country": "Brazil"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/football-achievement",
+      "valueString": "1970 World Cup Scorer"
+    }
+  ]
 }
