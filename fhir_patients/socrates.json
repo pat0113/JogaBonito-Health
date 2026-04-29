@@ -5,5 +5,18 @@
       "text": "Socrates"
     }
   ],
-  "gender": "male"
+  "gender": "male",
+  "birthDate": "1954-01-12",
+  "address": [
+    {
+      "city": "S\u00e3o Paulo",
+      "country": "Brazil"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/football-achievement",
+      "valueString": "1982 World Cup Captain"
+    }
+  ]
 }
