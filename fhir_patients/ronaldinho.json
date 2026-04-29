@@ -5,5 +5,18 @@
       "text": "Ronaldinho"
     }
   ],
-  "gender": "male"
+  "gender": "male",
+  "birthDate": "1980-03-21",
+  "address": [
+    {
+      "city": "Porto Alegre",
+      "country": "Brazil"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/football-achievement",
+      "valueString": "Ballon d'Or 2005"
+    }
+  ]
 }
