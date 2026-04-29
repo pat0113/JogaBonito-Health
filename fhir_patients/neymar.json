@@ -5,5 +5,18 @@
       "text": "Neymar"
     }
   ],
-  "gender": "male"
+  "gender": "male",
+  "birthDate": "1992-02-05",
+  "address": [
+    {
+      "city": "Mogi das Cruzes",
+      "country": "Brazil"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/football-achievement",
+      "valueString": "All-time Top Scorer"
+    }
+  ]
 }
