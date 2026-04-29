@@ -5,5 +5,18 @@
       "text": "Pele"
     }
   ],
-  "gender": "male"
+  "gender": "male",
+  "birthDate": "1940-10-23",
+  "address": [
+    {
+      "city": "Tr\u00eas Cora\u00e7\u00f5es",
+      "country": "Brazil"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/football-achievement",
+      "valueString": "3 World Cups"
+    }
+  ]
 }
