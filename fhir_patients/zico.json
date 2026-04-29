@@ -5,5 +5,18 @@
       "text": "Zico"
     }
   ],
-  "gender": "male"
+  "gender": "male",
+  "birthDate": "1953-03-03",
+  "address": [
+    {
+      "city": "Rio de Janeiro",
+      "country": "Brazil"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/football-achievement",
+      "valueString": "Flamengo Legend"
+    }
+  ]
 }
