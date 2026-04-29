@@ -5,5 +5,18 @@
       "text": "Garrincha"
     }
   ],
-  "gender": "male"
+  "gender": "male",
+  "birthDate": "1933-10-28",
+  "address": [
+    {
+      "city": "Itapo\u00e1",
+      "country": "Brazil"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/football-achievement",
+      "valueString": "1962 World Cup Hero"
+    }
+  ]
 }
