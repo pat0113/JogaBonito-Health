@@ -5,5 +5,18 @@
       "text": "Roberto Carlos"
     }
   ],
-  "gender": "male"
+  "gender": "male",
+  "birthDate": "1973-04-10",
+  "address": [
+    {
+      "city": "Gar\u00e7a",
+      "country": "Brazil"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/football-achievement",
+      "valueString": "Free-kick Specialist"
+    }
+  ]
 }
