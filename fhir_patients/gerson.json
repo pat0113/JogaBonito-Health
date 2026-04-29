@@ -5,5 +5,18 @@
       "text": "Gerson"
     }
   ],
-  "gender": "male"
+  "gender": "male",
+  "birthDate": "1941-01-11",
+  "address": [
+    {
+      "city": "Rio de Janeiro",
+      "country": "Brazil"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/football-achievement",
+      "valueString": "1970 Midfield Engine"
+    }
+  ]
 }
