@@ -5,5 +5,18 @@
       "text": "Marcelo"
     }
   ],
-  "gender": "male"
+  "gender": "male",
+  "birthDate": "1988-05-12",
+  "address": [
+    {
+      "city": "Rio de Janeiro",
+      "country": "Brazil"
+    }
+  ],
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/StructureDefinition/football-achievement",
+      "valueString": "Real Madrid Legend"
+    }
+  ]
 }
