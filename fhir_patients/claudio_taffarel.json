@@ -1,0 +1,9 @@
+{
+  "resourceType": "Patient",
+  "name": [
+    {
+      "text": "Claudio Taffarel"
+    }
+  ],
+  "gender": "male"
+}
